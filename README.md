@@ -9,6 +9,7 @@ Requirements
 * python-multiprocessing
 * python-magic
 * python-requests
+* python-configparser
 
 Usage
 =====
